@@ -1,26 +1,18 @@
-# CXTV Brasil M3U
+# CXTV Brasil M3U — versão corrigida
 
-Gerador automático de playlist M3U a partir da CXTV Brasil.
+A versão anterior podia gerar uma M3U vazia porque o HTML recebido pelo `aiohttp` não continha o stream: a página da CXTV monta o player dinamicamente. Esta versão usa Chromium/Playwright.
 
-## Recursos
+## Fluxo
 
-- percorre a listagem brasileira e tenta carregar todas as páginas disponíveis;
-- acompanha links de canais encontrados em paginação e em "Carregar Mais";
-- recupera nome, idioma e todas as categorias do canal;
-- gera uma entrada por categoria, mantendo o mesmo stream;
-- testa os streams individualmente;
-- remove automaticamente streams que falharem;
-- remove duplicados;
-- gera `listas/cxtv-brasil.m3u`;
-- atualização automática pelo GitHub Actions;
-- execução manual pelo GitHub Actions.
+1. Abre `https://www.cxtv.com.br/tv/paises/tvs-brasil` em Chromium.
+2. Clica em `Carregar Mais` enquanto o botão existir.
+3. Coleta os canais.
+4. Abre cada página de canal.
+5. Captura URLs de `iframe`, `video`, `source` e recursos de rede (`m3u8`, `mp4`, `ts`).
+6. Recupera todas as categorias.
+7. Testa cada stream.
+8. Remove os que falham.
+9. Gera uma entrada por categoria.
+10. Atualiza diariamente pelo GitHub Actions.
 
-## Fonte
-
-https://www.cxtv.com.br/tv/paises/tvs-brasil
-
-## URL da lista
-
-Depois do primeiro workflow, use:
-
-https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/listas/cxtv-brasil.m3u
+O workflow falha se não encontrar streams, evitando publicar silenciosamente uma lista vazia.
