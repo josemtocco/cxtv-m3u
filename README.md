@@ -1,18 +1,18 @@
 # CXTV Brasil M3U — versão corrigida
 
-A versão anterior podia gerar uma M3U vazia porque o HTML recebido pelo `aiohttp` não continha o stream: a página da CXTV monta o player dinamicamente. Esta versão usa Chromium/Playwright.
+Esta versão corrige os dois problemas relatados:
 
-## Fluxo
+- **Nome correto:** o `tvg-name` e o nome exibido na M3U são obtidos da página individual do canal, priorizando o `h1`/título da própria CXTV. O texto do cartão da listagem não é usado como nome final.
+- **Somente canais ativos:** cada URL de mídia é testada antes de entrar na M3U. Para HLS, o teste exige uma playlist `#EXTM3U` com mídia/variantes e valida também uma variante quando disponível.
 
-1. Abre `https://www.cxtv.com.br/tv/paises/tvs-brasil` em Chromium.
-2. Clica em `Carregar Mais` enquanto o botão existir.
-3. Coleta os canais.
-4. Abre cada página de canal.
-5. Captura URLs de `iframe`, `video`, `source` e recursos de rede (`m3u8`, `mp4`, `ts`).
-6. Recupera todas as categorias.
-7. Testa cada stream.
-8. Remove os que falham.
-9. Gera uma entrada por categoria.
-10. Atualiza diariamente pelo GitHub Actions.
+Também mantém:
 
-O workflow falha se não encontrar streams, evitando publicar silenciosamente uma lista vazia.
+- Brasil;
+- Português quando a CXTV declara outro idioma, o canal é descartado;
+- todas as categorias encontradas;
+- uma entrada por categoria;
+- remoção de duplicados;
+- atualização diária;
+- execução manual pelo GitHub Actions.
+
+O workflow falha se nenhum canal ativo for encontrado, evitando publicar uma M3U vazia por engano.
