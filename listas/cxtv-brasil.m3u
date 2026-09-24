@@ -1,425 +1,359 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89165.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-89300.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-89303.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89164.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89163.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89162.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-380-1790271443.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/live-240.m3u8
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-380-1790271444.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-240-1790271443.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/live-380.m3u8
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033714.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/live-380.m3u8
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033710.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-240-1790033706.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033715.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033711.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033706.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033707.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033708.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033713.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033709.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033712.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/live-240.m3u8
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-89302.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-89301.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033988.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/live-380.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033986.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033989.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033985.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033983.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033990.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/live-240.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033987.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-240-1790033982.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033982.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20567.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20565.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20564.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20427.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20430.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20428.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20429.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702022425709661-dur=40170509-seq=96406835.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20566.ts
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001.m3u8
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702022365802258-dur=39938297-seq=96406833.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3702022365580000-dur=40040000-seq=96406833.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702030653932814-dur=40170496-seq=96407049.ts
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3702022405620000-dur=20020000-seq=96406834.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3702022425640000-dur=40040000-seq=96406835.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702022405740555-dur=19969106-seq=96406834.ts
-#EXTINF:-1 tvg-id="6b41c5a26b97" tvg-name="TV Brasil Brasil - DF - Brasília Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil Brasil - DF - Brasília Cultura
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1310617890374846-a78a1b57-f2d7-17d2-36ce-7d78b53f7c7d/1310617890374846_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272650519_3658749706_248388.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272648503_3658749706_248387.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272656477_3658749706_248391.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272652501_3658749706_248389.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3702030613820000-dur=40040000-seq=96407048.ts
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702030694103310-dur=39938310-seq=96407050.ts
+#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272654483_3658749706_248390.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="0b4bde7eb1d6" tvg-name="Retro Cartoon Brasil - SP - São Paulo Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon Brasil - SP - São Paulo Desenhos
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273478487_3658749706_248803.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273474462_3658749706_248801.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273476493_3658749706_248802.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273472459_3658749706_248800.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1426775051_1889.ts
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="0b4bde7eb1d6" tvg-name="Retro Cartoon Brasil - SP - São Paulo Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon Brasil - SP - São Paulo Desenhos
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1062776945_1807.ts
-#EXTINF:-1 tvg-id="0b4bde7eb1d6" tvg-name="Retro Cartoon Brasil - SP - São Paulo Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon Brasil - SP - São Paulo Desenhos
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1062776945.m3u8
-#EXTINF:-1 tvg-id="0b4bde7eb1d6" tvg-name="Retro Cartoon Brasil - SP - São Paulo Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon Brasil - SP - São Paulo Desenhos
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1062776945_1805.ts
-#EXTINF:-1 tvg-id="0b4bde7eb1d6" tvg-name="Retro Cartoon Brasil - SP - São Paulo Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon Brasil - SP - São Paulo Desenhos
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1062776945_1806.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_235.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1925868134.m3u8
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_236.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_234.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1426775051.m3u8
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1426775051_1891.ts
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1426775051_1890.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272650519_3658749706_248388.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272648503_3658749706_248387.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272656477_3658749706_248391.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272652501_3658749706_248389.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_317.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_319.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_318.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1432486314.m3u8
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272654483_3658749706_248390.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171410.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273478487_3658749706_248803.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273474462_3658749706_248801.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273476493_3658749706_248802.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273472459_3658749706_248800.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171515.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171409.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171412.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171411.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1302921308656935-3cb237f3-7190-c0c7-06e3-9da979fee91b/1302921308656935_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171512.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171513.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171514.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59983.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59982.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59902.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59903.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w296257493.m3u8
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272650519_3658749706_248388.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272648503_3658749706_248387.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272656477_3658749706_248391.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272652501_3658749706_248389.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w758586775.m3u8
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="f15a2e3020e5" tvg-name="TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura Brasil - SP - São Paulo Desenhos Cultura Educativos
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790272654483_3658749706_248390.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907395.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907397.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273478487_3658749706_248803.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273474462_3658749706_248801.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273476493_3658749706_248802.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790273472459_3658749706_248800.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907535.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907534.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907396.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907398.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1309518378656605-13232282-39a6-4eb7-3413-e43f906594b7/1309518378656605_3413x1920_aacAudio_5760.mp4
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV Brasil Esportes Futebol
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853552.ts
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853555.ts
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb543d1d796c64879cd43762cef342a7f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff12e554bb15f36016bc0bf51a9774fc4815c8a6220d8fbde7c387b0e5acc5455b4a658a0f983387ffb546f3a8e79b51e6fd5e137dbe27ffcd5800ec061a74cc361f8b26c5f1e22a8b0e426eb08f2317338681dcbc71107aa2cb93bfeccd6555c083f0ba69ec7a5901c1ccc376649eaf0dbba2acc07c18a2e896f3bb63a9925af1d8571a305abe001f5e3eb9f0a7968f59f1b4d2eaef0b8cae36d658230afeba9fc636c95f3237d45e264cc6d7e6bc7b39842c4e01d84b92e80fb38496880a2449d9ca08aa0e5de1dd2769cb593f2586e476d111afc34e0fd49de3ad66ca7de19420d1d154dfba36d336c38865c6c063ce7028b4a7acee01a7236bf/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=5.972633&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853553.ts&seen-ad=1&seg_id=853553&user_id=70896879-b841-11f1-9cf3-16d5c98a6636
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://stream.ads.ottera.tv/cl/260924daqm95he3qos73dujotg/848x480_1686360_2_f.m3u8?i=728_6178
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853553.ts
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb543d1d796c64879cd43762cef342a7f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff12e554bb15f36016bc0bf51a9774fc4815c8a6220d8fbde7c387b0e5acc5455b4a658a0f983387ffb546f3a8e79b51e6fd5e137dbe27ffcd5800ec061a74cc361f8b26c5f1e22a8b0e426eb08f2317338681dcbc71107aa2cb93bfeccd6555c083f0ba69ec7a5901c1ccc376649eaf0dbba2acc07c18a2e896f3bb63a9925af1d8571a305abe001f5e3eb9f0a7968f59f1b4d2eaef0b8cae36d658230afeba9fc636c95f3237d45e264cc6d7e6bc7b39842c4e01d84b92e80fb38496880a2449d9ca08aa0e5de1dd2769cb593f2586e476d111afc34e0fd49de3ad66ca7de19420d1d154dfba36d336c38865c6c063ce7028b4a7acee01a7236bf/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853554.ts&seen-ad=1&seg_id=853554&user_id=70896879-b841-11f1-9cf3-16d5c98a6636
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb543d1d796c64879cd43762cef342a7f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff12e554bb15f36016bc0bf51a9774fc4815c8a6220d8fbde7c387b0e5acc5455b4a658a0f983387ffb546f3a8e79b51e6fd5e137dbe27ffcd5800ec061a74cc361f8b26c5f1e22a8b0e426eb08f2317338681dcbc71107aa2cb93bfeccd6555c083f0ba69ec7a5901c1ccc376649eaf0dbba2acc07c18a2e896f3bb63a9925af1d8571a305abe001f5e3eb9f0a7968f59f1b4d2eaef0b8cae36d658230afeba9fc636c95f3237d45e264cc6d7e6bc7b39842c4e01d84b92e80fb38496880a2449d9ca08aa0e5de1dd2769cb593f2586e476d111afc34e0fd49de3ad66ca7de19420d1d154dfba36d336c38865c6c063ce7028b4a7acee01a7236bf/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853555.ts&seen-ad=1&seg_id=853555&user_id=70896879-b841-11f1-9cf3-16d5c98a6636
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907533.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907532.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853693.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb553d19796c64899ed43e64d5ef42a4de2419fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df896151f087527f35b27e1e419d5f4381670a3d8cba4d46d66bf73d5011eb5b3d026589f00ba57251d8810bdd7e34daadd869242b0b0d99595db3f55ea1ace13f26e248995588caa40f74cdb036bcc62bccd59606cf1dcf54d02eafe795ab4fc44fb4bb55dc12f03b195d581dd3e02bd7a1d5d1ab54d1068a5eee6f3e2c8e6fefc44aa7c4670931ddead9b075fa5cec8c378d69398101f264a93f9062a605a6ae1beefdfb977a1068ff84776829b5fde092a3630ceb32b2e2c8cd63709cc1117a6cc0799777786fdeae9d54a7cb0799bb26cae53d4d78f390439a8fbbccbae3da04cf73b8a09efd114b40761c78ef1fc5be68c822c977b8c470700818a4cc34fa7133bf67f5e405720eef8ce996c47243cf4203/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853695.ts&seen-ad=1&seg_id=853695&user_id=5bc2347d-b843-11f1-a058-fab640fe02c0
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853695.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853692.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb553d19796c64899ed43e64d5ef42a4de2419fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df896151f087527f35b27e1e419d5f4381670a3d8cba4d46d66bf73d5011eb5b3d026589f00ba57251d8810bdd7e34daadd869242b0b0d99595db3f55ea1ace13f26e248995588caa40f74cdb036bcc62bccd59606cf1dcf54d02eafe795ab4fc44fb4bb55dc12f03b195d581dd3e02bd7a1d5d1ab54d1068a5eee6f3e2c8e6fefc44aa7c4670931ddead9b075fa5cec8c378d69398101f264a93f9062a605a6ae1beefdfb977a1068ff84776829b5fde092a3630ceb32b2e2c8cd63709cc1117a6cc0799777786fdeae9d54a7cb0799bb26cae53d4d78f390439a8fbbccbae3da04cf73b8a09efd114b40761c78ef1fc5be68c822c977b8c470700818a4cc34fa7133bf67f5e405720eef8ce996c47243cf4203/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853692.ts&seen-ad=1&seg_id=853692&user_id=5bc2347d-b843-11f1-a058-fab640fe02c0
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb553d19796c64899ed43e64d5ef42a4de2419fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df896151f087527f35b27e1e419d5f4381670a3d8cba4d46d66bf73d5011eb5b3d026589f00ba57251d8810bdd7e34daadd869242b0b0d99595db3f55ea1ace13f26e248995588caa40f74cdb036bcc62bccd59606cf1dcf54d02eafe795ab4fc44fb4bb55dc12f03b195d581dd3e02bd7a1d5d1ab54d1068a5eee6f3e2c8e6fefc44aa7c4670931ddead9b075fa5cec8c378d69398101f264a93f9062a605a6ae1beefdfb977a1068ff84776829b5fde092a3630ceb32b2e2c8cd63709cc1117a6cc0799777786fdeae9d54a7cb0799bb26cae53d4d78f390439a8fbbccbae3da04cf73b8a09efd114b40761c78ef1fc5be68c822c977b8c470700818a4cc34fa7133bf67f5e405720eef8ce996c47243cf4203/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=5.972633&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853694.ts&seen-ad=1&seg_id=853694&user_id=5bc2347d-b843-11f1-a058-fab640fe02c0
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb553d19796c64899ed43e64d5ef42a4de2419fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df896151f087527f35b27e1e419d5f4381670a3d8cba4d46d66bf73d5011eb5b3d026589f00ba57251d8810bdd7e34daadd869242b0b0d99595db3f55ea1ace13f26e248995588caa40f74cdb036bcc62bccd59606cf1dcf54d02eafe795ab4fc44fb4bb55dc12f03b195d581dd3e02bd7a1d5d1ab54d1068a5eee6f3e2c8e6fefc44aa7c4670931ddead9b075fa5cec8c378d69398101f264a93f9062a605a6ae1beefdfb977a1068ff84776829b5fde092a3630ceb32b2e2c8cd63709cc1117a6cc0799777786fdeae9d54a7cb0799bb26cae53d4d78f390439a8fbbccbae3da04cf73b8a09efd114b40761c78ef1fc5be68c822c977b8c470700818a4cc34fa7133bf67f5e405720eef8ce996c47243cf4203/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853693.ts&seen-ad=1&seg_id=853693&user_id=5bc2347d-b843-11f1-a058-fab640fe02c0
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb543d1d796c64879cd43762cef342a7f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff12e554bb15f36016bc0bf51a9774fc4815c8a6220d8fbde7c387b0e5acc5455b4a658a0f983387ffb546f3a8e79b51e6fd5e137dbe27ffcd5800ec061a74cc361f8b26c5f1e22a8b0e426eb08f2317338681dcbc71107aa2cb93bfeccd6555c083f0ba69ec7a5901c1ccc376649eaf0dbba2acc07c18a2e896f3bb63a9925af1d8571a305abe001f5e3eb9f0a7968f59f1b4d2eaef0b8cae36d658230afeba9fc636c95f3237d45e264cc6d7e6bc7b39842c4e01d84b92e80fb38496880a2449d9ca08aa0e5de1dd2769cb593f2586e476d111afc34e0fd49de3ad66ca7de19420d1d154dfba36d336c38865c6c063ce7028b4a7acee01a7236bf/848x480_1686360?bcn=1&ca=0&cid=3340303BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0853552.ts&seen-ad=1&seg_id=853552&user_id=70896879-b841-11f1-9cf3-16d5c98a6636
-#EXTINF:-1 tvg-id="acde31637b56" tvg-name="Filmes Online Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online Brasil Filmes
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853554.ts
-#EXTINF:-1 tvg-id="63ecd8d31ee4" tvg-name="Multi Canais Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais Brasil Filmes
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w650914646_98997.ts
-#EXTINF:-1 tvg-id="63ecd8d31ee4" tvg-name="Multi Canais Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais Brasil Filmes
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w650914646_98998.ts
-#EXTINF:-1 tvg-id="63ecd8d31ee4" tvg-name="Multi Canais Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais Brasil Filmes
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w650914646.m3u8
-#EXTINF:-1 tvg-id="63ecd8d31ee4" tvg-name="Multi Canais Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais Brasil Filmes
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w650914646_98999.ts
-#EXTINF:-1 tvg-id="63ecd8d31ee4" tvg-name="Multi Canais Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais Brasil Filmes
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://stream.ads.ottera.tv/cl/260924daqmfjl4cpgs7388tt3g/848x480_1686360_2_f.m3u8?i=728_6178
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0853694.ts
+#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w506125508_99082.ts
+#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w506125508_99081.ts
+#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w506125508.m3u8
+#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w506125508_99080.ts
+#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1601339944.m3u8
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1035255866.m3u8
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1601339944_229.ts
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/184857344/15bd923ed96945651e56eb4e4010144a/hls-v2/2000-00422.ts
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/184857344/15bd923ed96945651e56eb4e4010144a/hls-v2/2000-00424.ts
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/184857344/15bd923ed96945651e56eb4e4010144a/hls-v2/2000-00423.ts
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1035255866_311.ts
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/195501269/hls-v2/2000-00013.ts
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="e6ec0aaf5e48" tvg-name="Sony One Cinema Brasil Filmes" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema Brasil Filmes
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/184857344/15bd923ed96945651e56eb4e4010144a/hls-v2/2000-00421.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_235.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1925868134.m3u8
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_236.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_234.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/195501269/hls-v2/2000-00016.ts
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/195501269/hls-v2/2000-00015.ts
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/195501269/hls-v2/2000-00014.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98999.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98997.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_317.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_319.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_318.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1432486314.m3u8
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1277686315.m3u8
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99082.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99080.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99081.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98998.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1686068570.m3u8
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171410.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171515.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171409.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171412.ts
-#EXTINF:-1 tvg-id="7b6f19ff5f5a" tvg-name="Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine Brasil - SP - Adamantina Filmes Desenhos
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-171411.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1302921308656935-3cb237f3-7190-c0c7-06e3-9da979fee91b/1302921308656935_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/42-10358.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/00-10042.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/10-08392.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/52-08100.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/31-10317.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171512.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171513.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-171514.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/18-08825.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907395.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907397.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/19-13263.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/43-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/33-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/53-10010.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907535.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907534.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907396.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907398.ts
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1309518378656605-13232282-39a6-4eb7-3413-e43f906594b7/1309518378656605_3413x1920_aacAudio_5760.mp4
-#EXTINF:-1 tvg-id="3ec94038d3da" tvg-name="CazéTV Brasil Esportes Futebol" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV Brasil Esportes Futebol
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02807.ts
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02809.ts
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02808.ts
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1308418867045548-a427fd3b-1980-e55e-0762-684685a27157/1308418867045548_3413x1920_aacAudio_5760.mp4
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907533.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0907532.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="4ffd533c7769" tvg-name="Record News Brasil - SP - São Paulo Notícias" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News Brasil - SP - São Paulo Notícias
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02806.ts
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1601339944.m3u8
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02944.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02946.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02943.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00006/rnw_rn_720p_high_02945.ts
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1035255866.m3u8
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="5ead0ae60d1b" tvg-name="Rede Clouding TV Brasil - PA - Belém Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV Brasil - PA - Belém Filmes Seriados
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1601339944_229.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_235.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1925868134.m3u8
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_236.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1925868134_234.ts
-#EXTINF:-1 tvg-id="c3453f380b19" tvg-name="Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD Brasil - CE - Fortaleza Filmes Desenhos Seriados
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1035255866_311.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98999.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98997.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_317.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_319.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1432486314_318.ts
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1432486314.m3u8
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1277686315.m3u8
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99082.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99080.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99081.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98998.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1686068570.m3u8
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1302921308656935-3cb237f3-7190-c0c7-06e3-9da979fee91b/1302921308656935_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/42-10358.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/00-10042.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/10-08392.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/52-08100.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/56/31-10317.ts
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-id="da5712532d3f" tvg-name="Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema Brasil - AM - Manaus Filmes Seriados
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/17/57/18-08825.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1302921308656935-3cb237f3-7190-c0c7-06e3-9da979fee91b/1302921308656935_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/19-13263.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/43-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/33-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/24/18/10/53-10010.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59983.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59982.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59902.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59903.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w296257493.m3u8
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89165.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w758586775.m3u8
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-89300.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-89303.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89164.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89163.ts
-#EXTINF:-1 tvg-id="48f9b21471c0" tvg-name="AWTV Brasil - SP - Sorocaba Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV Brasil - SP - Sorocaba Variedades Alta Definição
-https://awtv.nuvemplay.live/hls/stream-89162.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-89302.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-89301.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20567.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20565.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20564.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20427.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20430.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20428.ts
-#EXTINF:-1 tvg-id="b322965b1dde" tvg-name="Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão Brasil - SP - São Paulo Cultura Variedades
-https://redebrasil.nuvemplay.live/hls/stream-20429.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-380-1790271443.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/live-240.m3u8
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-380-1790271444.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/stream-240-1790271443.ts
-#EXTINF:-1 tvg-id="aec9a43305c9" tvg-name="Rede TV Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(6BFXyDBlUBAmzglLw-ZhlFQGLYA6z0lAK07QW5IRvmbCm5DviYWjYuZR-Pjcs4X3E8izKSTbI5FqUogBsXNT9l14p6_uAB0vO4uZ6F1MRrxky5FMaEhDcATu0E3ti96b)/dm/3/x8xps0s/d/live-380.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98999.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98997.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-20566.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1277686315.m3u8
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99082.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99080.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1277686315_99081.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1686068570_98998.ts
-#EXTINF:-1 tvg-id="3ba3002edf2a" tvg-name="Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos Brasil - SP - São Paulo Filmes Variedades Seriados
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1686068570.m3u8
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033714.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/live-380.m3u8
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033710.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-240-1790033706.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033715.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033711.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033706.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033707.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033708.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033713.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033709.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/stream-380-1790033712.ts
-#EXTINF:-1 tvg-id="9bcba1ca035c" tvg-name="TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta) Brasil - SP - São Paulo Variedades Alta Definição
-https://live.eu-north-1a.cf.dmcdn.net/sec2(9HpN0ePIlSDnw_zY3xST6O_CfigFFBYjyqKCPbNdKNltGC9gtQ6nvoLK20tq_UxBrQ49laFjx-unqVbB9H45QiBDC4_1Ksi7Hm8grvwo1lfK6GWJiqvr-c64yF6I72ll)/dm/3/x8ttlxm/s/live-240.m3u8
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://adsappsvideostorage-h7bcb3c3cdg4c8gd.b02.azurefd.net/videoencoding/1302921308656935-3cb237f3-7190-c0c7-06e3-9da979fee91b/1302921308656935_1920x1080_aacAudio_3126.mp4
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033988.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/live-380.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033986.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033989.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033985.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033983.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033990.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/live-240.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033987.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-240-1790033982.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q4ckeM0llvtt8vWQf-zZPyi3gwRfrePFdzRYpksYDNCuv99pNEY96MwJerEvP6XwgrTamTE9apJi39ytgvnrmum41d5tJHQxOXqc9i1Q_zVC7D-4u3hrrLc-fSxqwJ4u)/dm/3/x8ttlxm/s/stream-380-1790033982.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59983.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w758586775_59982.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59902.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w296257493_59903.ts
-#EXTINF:-1 tvg-id="959012ee538f" tvg-name="Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme Brasil - RS - Camaquã Desenhos Variedades Seriados
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w296257493.m3u8
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w758586775.m3u8
