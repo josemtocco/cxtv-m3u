@@ -44,6 +44,27 @@ def parse_channels(markup):
                 out[canonical(u)] = name
     return out
 
+
+
+def exact_name(markup):
+    soup = BeautifulSoup(markup, "html.parser")
+    for selector in ("h1", ".tv-title", ".channel-title"):
+        tag = soup.select_one(selector)
+        if tag:
+            value = clean(tag.get_text(" ", strip=True))
+            value = re.sub(r"\s+(Ao Vivo|Online)$", "", value, flags=re.I).strip()
+            if value:
+                return value
+    title = soup.find("title")
+    if title:
+        value = clean(title.get_text(" ", strip=True))
+        value = re.split(r"\s+[-|]\s+Assista", value, flags=re.I)[0]
+        value = re.sub(r"\s+(Ao Vivo|Online)$", "", value, flags=re.I).strip()
+        if value:
+            return value
+    return "Canal sem nome"
+
+
 def metadata(markup):
     soup = BeautifulSoup(markup, "html.parser")
     cats, lang = [], ""
@@ -100,6 +121,7 @@ async def inspect(browser, url, name):
         await page.goto(url, wait_until="domcontentloaded", timeout=40000)
         await page.wait_for_timeout(5000)
         markup = await page.content()
+        name = exact_name(markup)
         cats, lang = metadata(markup)
         dom = await page.locator("iframe[src],video[src],source[src],[data-src],[data-url],[data-stream],[data-hls]").evaluate_all(
             """els => els.flatMap(e => [e.src,e.currentSrc,e.dataset?.src,e.dataset?.url,e.dataset?.stream,e.dataset?.hls]).filter(Boolean)"""
@@ -125,20 +147,59 @@ async def inspect_all(browser, channels):
     tasks = [asyncio.create_task(one(u,n)) for u,n in channels.items()]
     return [await t for t in asyncio.as_completed(tasks)]
 
-async def test_stream(session, url, sem):
+async def fetch_text(session, url):
+    try:
+        async with session.get(
+            url,
+            headers={"User-Agent": UA, "Referer": "https://www.cxtv.com.br/", "Accept": "*/*"},
+            allow_redirects=True,
+            timeout=aiohttp.ClientTimeout(total=18, connect=7, sock_read=10),
+        ) as r:
+            if r.status not in (200, 206):
+                return None, r.headers.get("Content-Type", "")
+            data = await r.content.read(1024 * 1024)
+            return data, r.headers.get("Content-Type", "")
+    except Exception:
+        return None, ""
+
+
+async def test_stream(session, url, sem, depth=0):
     async with sem:
-        try:
-            async with session.get(url, headers={"User-Agent":UA,"Referer":"https://www.cxtv.com.br/"}, allow_redirects=True, timeout=aiohttp.ClientTimeout(total=18,connect=7,sock_read=10)) as r:
-                if r.status not in (200,206): return False
-                data = await r.content.read(512*1024)
-                if not data: return False
-                ct = r.headers.get("Content-Type","").lower()
-                if ".m3u8" in url.lower() or "mpegurl" in ct:
-                    s = data.decode("utf-8","ignore")
-                    return "#EXTM3U" in s and any(x in s for x in ("#EXTINF","#EXT-X-STREAM-INF",".m3u8",".ts"))
-                return True
-        except Exception:
+        data, content_type = await fetch_text(session, url)
+        if not data:
             return False
+
+        low = url.lower()
+        ct = content_type.lower()
+        text = data.decode("utf-8", errors="ignore")
+        is_hls = ".m3u8" in low or "mpegurl" in ct or "#EXTM3U" in text[:2000]
+
+        if not is_hls:
+            return len(data) > 4096
+
+        if "#EXTM3U" not in text:
+            return False
+
+        # HLS vazio/incompleto não passa.
+        if not any(x in text for x in ("#EXTINF", "#EXT-X-STREAM-INF", ".m3u8", ".ts", ".aac", ".mp4")):
+            return False
+
+        # Para master playlists, valida uma variante real.
+        if "#EXT-X-STREAM-INF" in text and depth < 2:
+            variants = []
+            for line in text.splitlines():
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    v = canonical(absurl(url, line))
+                    if v and (".m3u8" in v.lower() or "playlist" in v.lower()):
+                        variants.append(v)
+            variants = list(dict.fromkeys(variants))[:3]
+            if variants:
+                checks = await asyncio.gather(*(test_stream(session, v, sem, depth + 1) for v in variants))
+                if not any(checks):
+                    return False
+
+        return True
 
 async def main():
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
