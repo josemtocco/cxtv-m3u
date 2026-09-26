@@ -1,395 +1,397 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
-https://awtv.nuvemplay.live/hls/stream-98014.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
-https://awtv.nuvemplay.live/hls/stream-98013.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
-https://awtv.nuvemplay.live/hls/stream-98011.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
-https://awtv.nuvemplay.live/hls/stream-98012.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-11472.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-11473.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-11474.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",AWTV
+https://awtv.nuvemplay.live/hls/stream-11471.ts
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-380-1790291344.ts
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/live-380.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/stream-380-1790319876.ts
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/live-380.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-240-1790291336.ts
-#EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-380-1790291336.ts
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/stream-380-1790319883.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051361.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079895.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051357.ts
+https://video.seenthis.se/delivery/stream/uilZDM6sbDGNqynahh2bx/playlist.mpd?tid=12hmaprzj21xoigmvg32io89doj42hmaprzj528o6kkyd6mdho8ujb735rgniab89l3yncan9a4u3vz75a2fnhwdu3bgkroz4lycg35p9a40d35u9kag4esimtb1ncf27jvrouoguj66ujidh27gmngrr22rb&tech=dash-ms
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051359.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/live-240.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051363.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079904.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/live-380.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079897.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-240-1790051356.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079899.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051360.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079898.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079901.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051362.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079902.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051356.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079903.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/live-380.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079900.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079896.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Alta Definição",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-240-1790079895.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-18492.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4221.ts
+https://redebrasil.nuvemplay.live/hls/stream-18491.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4220.ts
+https://redebrasil.nuvemplay.live/hls/stream-18490.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4222.ts
-#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Cultura",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4223.ts
+https://redebrasil.nuvemplay.live/hls/stream-18493.ts
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702551854607661-dur=40170509-seq=96420622.ts
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3703408069900000-dur=20020000-seq=96442919.ts
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3702551934716480-dur=40170496-seq=96420624.ts
+https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000-begin=3703408070001777-dur=19969106-seq=96442919.ts
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001-begin=3702551854540000-dur=40040000-seq=96420622.ts
-#EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-id="71ea9efb9853" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325602496_3658749706_274872.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=10001.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325604500_3658749706_274873.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411216460_3658749706_317702.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325596494_3658749706_274869.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411222509_3658749706_317705.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325600496_3658749706_274871.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411218490_3658749706_317703.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Cultura",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325598507_3658749706_274870.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411220487_3658749706_317704.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2034926868.m3u8
-#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w2034926868_3721.ts
-#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w2034926868_3722.ts
-#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w2034926868_3720.ts
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1649522281_380.ts
 #EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1649522281.m3u8
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1649522281_381.ts
+#EXTINF:-1 tvg-id="fb16fe3a1d31" tvg-name="Retro Cartoon" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/media_w1649522281_382.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5655.ts
-#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5656.ts
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14399.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1584900931.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14400.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5657.ts
-#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325602496_3658749706_274872.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2108568451.m3u8
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14401.ts
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325604500_3658749706_274873.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411216460_3658749706_317702.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325596494_3658749706_274869.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411222509_3658749706_317705.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325600496_3658749706_274871.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411218490_3658749706_317703.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Desenhos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325598507_3658749706_274870.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411220487_3658749706_317704.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188776.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188773.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188775.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188774.ts
 #EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178045.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178048.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178046.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178047.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65096.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w399176598.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65097.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73505.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73506.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w1900880774.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Desenhos",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65095.ts
-#EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325602496_3658749706_274872.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325604500_3658749706_274873.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411216460_3658749706_317702.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325596494_3658749706_274869.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411222509_3658749706_317705.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325600496_3658749706_274871.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411218490_3658749706_317703.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="6cba2d21be77" tvg-name="TV Cultura" tvg-country="BR" tvg-language="Português" group-title="Educativos",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790325598507_3658749706_274870.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916253.ts
-#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd_1790411220487_3658749706_317704.ts?ps=8&app=live&stream=tvcultura_lsd&vhost=player-tvcultura.stream.uol.com.br&x_push_domain=origin-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916254.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930547.ts
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916255.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930549.ts
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916252.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930546.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930548.ts
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb573e1e6573648684c83678d1f34482a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779b72e0047b85f6a507f8fe50bfe6b53c4d60b962d2cd9aec034687b52589e580be0a60aa59db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33f68822e0c06e6617528936e00ebca7e31a5a2e70e243d1e72/848x480_1686360?bcn=1&ca=0&cid=3690016BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0862500.ts&seen-ad=1&seg_id=862500&user_id=b7e406df-b8bc-11f1-b5b3-ea68715f56d6
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0877009.ts
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb573e1e6573648684c83678d1f34482a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779b72e0047b85f6a507f8fe50bfe6b53c4d60b962d2cd9aec034687b52589e580be0a60aa59db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33f68822e0c06e6617528936e00ebca7e31a5a2e70e243d1e72/848x480_1686360?bcn=1&ca=0&cid=3690016BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0862503.ts&seen-ad=1&seg_id=862503&user_id=b7e406df-b8bc-11f1-b5b3-ea68715f56d6
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/640x360_1057680?bcn=1&ca=0&cid=9380864BPO&dur=5.972633&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F360p-pt%2Fseg_0877007.ts&seen-ad=1&seg_id=877007&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://stream.ads.ottera.tv/cl/260925dar36qgm6crc73dqdlmg/848x480_1686360_2_f.m3u8?i=728_6178
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/360p-pt/seg_0877009.ts
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0862502.ts
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/848x480_1686360?bcn=1&ca=0&cid=9380864BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0877006.ts&seen-ad=1&seg_id=877006&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/360p-pt/seg_0877007.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/848x480_1686360?bcn=1&ca=0&cid=9380864BPO&dur=5.105100&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0877008.ts&seen-ad=1&seg_id=877008&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0877007.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0877008.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0877006.ts
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/848x480_1686360?bcn=1&ca=0&cid=9380864BPO&dur=5.972633&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0877007.ts&seen-ad=1&seg_id=877007&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://stream.ads.ottera.tv/cl/260926daro3navj2qs73bre5tg/640x360_1057680_1_f.m3u8?i=728_6178
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/848x480_1686360?bcn=1&ca=0&cid=9380864BPO&dur=0.900900&media_type=M&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0877009.ts&seen-ad=1&seg_id=877009&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/640x360_1057680?bcn=1&ca=0&cid=9380864BPO&dur=0.900900&media_type=M&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F360p-pt%2Fseg_0877009.ts&seen-ad=1&seg_id=877009&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
+#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563e1e657a65909bcb3e78d5f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac16ce57b5341bc0f371b30d4e55db0775393811783767a8eb0dd636f2f585ccb5d58b6f60dc143d0676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0eb019d5cb94a347471e3b0d3d341358842501e97974d3ead9d61aca004fb041eb4179905e35aef3efa5af7b61ce9c533b833d62c24382acc03809c41ee5eda62ba515be22eb83913b8fb116a4eca6c9701233193fccc1bbec27fbd9b2c9fbd6511398fc40bcbddfabbbee1d60ab02cc4d2ecd8251a185c5256cf1d838a7dd72cea7daae51a35131817fad40692c6fa56226d4283cf0f80435b8ada8d82cd07749f334c14bb36ab3c6f09e03d6269fd5790d85b488c3501913a2df13b64d7151cd99116196e838f4df84e24934c58c264e405f582f4b1/640x360_1057680?bcn=1&ca=0&cid=9380864BPO&dur=5.105100&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F360p-pt%2Fseg_0877008.ts&seen-ad=1&seg_id=877008&user_id=10b624f9-b984-11f1-89c5-02fb23d05cfc
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0862501.ts
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/360p-pt/seg_0877008.ts
 #EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0862503.ts
-#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb573e1e6573648684c83678d1f34482a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779b72e0047b85f6a507f8fe50bfe6b53c4d60b962d2cd9aec034687b52589e580be0a60aa59db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33f68822e0c06e6617528936e00ebca7e31a5a2e70e243d1e72/848x480_1686360?bcn=1&ca=0&cid=3690016BPO&dur=6.006000&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0862501.ts&seen-ad=1&seg_id=862501&user_id=b7e406df-b8bc-11f1-b5b3-ea68715f56d6
-#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/480p-pt/seg_0862500.ts
-#EXTINF:-1 tvg-id="946aa109cc62" tvg-name="Filmes Online" tvg-country="BR" tvg-language="Português" group-title="Filmes",Filmes Online
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/ts-eu-w1-n2/beacon/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb573e1e6573648684c83678d1f34482a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779b72e0047b85f6a507f8fe50bfe6b53c4d60b962d2cd9aec034687b52589e580be0a60aa59db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33f68822e0c06e6617528936e00ebca7e31a5a2e70e243d1e72/848x480_1686360?bcn=1&ca=0&cid=3690016BPO&dur=5.972633&media_type=C&redirect_url=https%3A%2F%2Famg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv%2F480p-pt%2Fseg_0862502.ts&seen-ad=1&seg_id=862502&user_id=b7e406df-b8bc-11f1-b5b3-ea68715f56d6
+https://stream.ads.ottera.tv/cl/260926daro3navj2qs73bre5tg/848x480_1686360_2_f.m3u8?i=728_6178
 #EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1402986851_104301.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w583908975.m3u8
 #EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1402986851_104303.ts
-#EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w1402986851_104302.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w583908975_112880.ts
 #EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="9fa70c7853a9" tvg-name="Multi Canais" tvg-country="BR" tvg-language="Português" group-title="Filmes",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1402986851.m3u8
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1703856058.m3u8
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5530.ts
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5532.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w583908975_112881.ts
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5531.ts
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1088148473_14107.ts
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Filmes",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1088148473.m3u8
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/208764831/86936c71bbdce06b3928da9dc5a3b57c/hls-v2/2000-00648.ts
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/207580792/0b31600b5373b3beddc4b5fc4f70f849/hls-v2/2000-00443.ts
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/208764831/86936c71bbdce06b3928da9dc5a3b57c/hls-v2/2000-00649.ts
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/207580792/0b31600b5373b3beddc4b5fc4f70f849/hls-v2/2000-00446.ts
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/208764831/86936c71bbdce06b3928da9dc5a3b57c/hls-v2/2000-00650.ts
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/207580792/0b31600b5373b3beddc4b5fc4f70f849/hls-v2/2000-00445.ts
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/208764831/86936c71bbdce06b3928da9dc5a3b57c/hls-v2/2000-00651.ts
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/202/413960/207580792/0b31600b5373b3beddc4b5fc4f70f849/hls-v2/2000-00444.ts
 #EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="ea565b91168a" tvg-name="Sony One Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5655.ts
-#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5656.ts
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14399.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1584900931.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14400.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5657.ts
-#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w859255369.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2108568451.m3u8
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14401.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104303.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112882.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104302.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112883.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104304.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112881.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Filmes",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w762141862.m3u8
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188776.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188773.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188775.ts
+#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/tvserie-188774.ts
 #EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178045.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178048.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178046.ts
-#EXTINF:-1 tvg-id="1ce87c67a867" tvg-name="Web Tv Cine" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/tvserie-178047.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/28-10010.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/25-07174.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/03-07466.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/14-11220.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/38-06298.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/41-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/32-08634.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/11-07090.ts
-#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Filmes",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/18-10010.ts
-#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916253.ts
-#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916254.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930547.ts
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916255.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930549.ts
 #EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0916252.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930546.ts
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="021c049edc14" tvg-name="CazéTV" tvg-country="BR" tvg-language="Português" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/seg_0930548.ts
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00007/rnw_rn_720p_high_01686.ts
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00008/rnw_rn_720p_high_06041.ts
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00007/rnw_rn_720p_high_01685.ts
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00008/rnw_rn_720p_high_06043.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00008/rnw_rn_720p_high_06040.ts
+#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00008/rnw_rn_720p_high_06042.ts
 #EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00007/rnw_rn_720p_high_01687.ts
-#EXTINF:-1 tvg-id="d3041a3cca1f" tvg-name="Record News" tvg-country="BR" tvg-language="Português" group-title="Notícias",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high/00007/rnw_rn_720p_high_01688.ts
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1703856058.m3u8
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5530.ts
-#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5532.ts
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1703856058_5531.ts
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/media_w1088148473_14107.ts
+#EXTINF:-1 tvg-id="4c1a4a70305d" tvg-name="Rede Clouding TV" tvg-country="BR" tvg-language="Português" group-title="Seriados",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1088148473.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5655.ts
-#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5656.ts
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14399.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1584900931.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14400.ts
 #EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/media_w1584900931_5657.ts
-#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w859255369.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2108568451.m3u8
+#EXTINF:-1 tvg-id="fc839dcf0a08" tvg-name="Tv Aracati HD" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/media_w2108568451_14401.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104303.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112882.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104302.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112883.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104304.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112881.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Seriados",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w762141862.m3u8
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/28-10010.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/25-07174.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/03-07466.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/14-11220.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/38-06298.ts
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/41-10010.ts
+#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/26/08/26/32-08634.ts
 #EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/11-07090.ts
-#EXTINF:-1 tvg-id="0d8d90fd1833" tvg-name="Web Tv Clássicos do Cinema" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/2026/09/25/08/39/18-10010.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65096.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w399176598.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65097.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73505.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73506.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w1900880774.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Seriados",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65095.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
-https://awtv.nuvemplay.live/hls/stream-98014.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
-https://awtv.nuvemplay.live/hls/stream-98013.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
-https://awtv.nuvemplay.live/hls/stream-98011.ts
-#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
-https://awtv.nuvemplay.live/hls/stream-98012.ts
 #EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-11472.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-11473.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-11474.ts
+#EXTINF:-1 tvg-id="fe1b778df81c" tvg-name="AWTV" tvg-country="BR" tvg-language="Português" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream-11471.ts
+#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream-18492.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4221.ts
+https://redebrasil.nuvemplay.live/hls/stream-18491.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4220.ts
+https://redebrasil.nuvemplay.live/hls/stream-18490.ts
 #EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4222.ts
-#EXTINF:-1 tvg-id="3e08425110c8" tvg-name="Rede Brasil de Televisão" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede Brasil de Televisão
-https://redebrasil.nuvemplay.live/hls/stream-4223.ts
+https://redebrasil.nuvemplay.live/hls/stream-18493.ts
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-380-1790291344.ts
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/live-240.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/live-380.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/stream-380-1790319876.ts
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/live-240.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/live-380.m3u8
 #EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-240-1790291336.ts
-#EXTINF:-1 tvg-id="c2decd915f12" tvg-name="Rede TV" tvg-country="BR" tvg-language="Português" group-title="Variedades",Rede TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uusWB9mHC-lYeriZkttzSCKUoID9Y9y4b5RllQ4SE7l58ftnkFit94w0mfgSVuzIG-lmeyvIBvkOAFp_Vq1UZYN1qizXwxugNPGZWbMayXATr61aOM4uS4Z67LAfkqUN)/dm/3/x8xps0s/d/stream-380-1790291336.ts
-#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w859255369.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B-E03bIvdVeuHfUa9QSWPUxuUSzBA58wZKqAVd3plAUdKknGP3LJmw6V38ne4_SKn5wcEgh2z54AefwCVVrKJBsIq11FNWAEvcpspaFlrhdchzGGpeszr1D2GrJCX5qt)/dm/3/x8xps0s/d/stream-380-1790319883.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104303.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112882.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104302.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112883.ts
 #EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w859255369_104304.ts
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/media_w762141862_112881.ts
+#EXTINF:-1 tvg-id="3933b058a2f0" tvg-name="Tv Clássicos" tvg-country="BR" tvg-language="Português" group-title="Variedades",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w762141862.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051361.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079895.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051357.ts
+https://video.seenthis.se/delivery/stream/uilZDM6sbDGNqynahh2bx/playlist.mpd?tid=12hmaprzj21xoigmvg32io89doj42hmaprzj528o6kkyd6mdho8ujb735rgniab89l3yncan9a4u3vz75a2fnhwdu3bgkroz4lycg35p9a40d35u9kag4esimtb1ncf27jvrouoguj66ujidh27gmngrr22rb&tech=dash-ms
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051359.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/live-240.m3u8
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051363.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079904.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/live-380.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079897.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-240-1790051356.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079899.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051360.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079898.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/live-240.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079901.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051362.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079902.ts
 #EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-cOVpk-1SbddAssM5RGNxV96rXm1-yp188MQFjHwejw8vkhpzZGV_-wsvikpQdnMu96sP5FAQQq6Da12WcX6J4WGcxiPL59JdVsIkW6Rqy3Vq3BsXU1qZTIIQyCpKQC8)/dm/3/x8ttlxm/s/stream-380-1790051356.ts
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079903.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/live-380.m3u8
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079900.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-380-1790079896.ts
+#EXTINF:-1 tvg-id="d90f6e50e5d8" tvg-name="TV Gazeta (Rede Gazeta)" tvg-country="BR" tvg-language="Português" group-title="Variedades",TV Gazeta (Rede Gazeta)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(dyiLmbBsmlzq_3OJFsiuZSOKEK35XN-Gb4YQjT46mtVqGW2tzRfcPTatpTHv_JQX4WlmkQc66Idt17PPULr9PagAF4eqFQsqyeYcUF5O0yFaGA-I9jJP7ZkrcwL8INrK)/dm/3/x8ttlxm/s/stream-240-1790079895.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65096.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w399176598.m3u8
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65097.ts
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73505.ts
+#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/media_w399176598_73506.ts
 #EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w1900880774.m3u8
-#EXTINF:-1 tvg-id="daed694bcf57" tvg-name="Web Tv Xtreme" tvg-country="BR" tvg-language="Português" group-title="Variedades",Web Tv Xtreme
-https://video11.logicahost.com.br/xtremetv/xtremetv/media_w1900880774_65095.ts
